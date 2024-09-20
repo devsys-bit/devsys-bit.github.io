@@ -1,0 +1,170 @@
+[
+  {
+    "opc": 1,
+    "titulo": "Introducción al Array",
+    "rama": "introduccion_array",
+    "descripcion": "Comprender la estructura y utilidad básica de los arrays en JavaScript.",
+    "is_active": true
+  },
+  {
+    "opc": 2,
+    "titulo": "Introducción al Constructor",
+    "rama": "introduccion_constructor",
+    "descripcion": "Conocer cómo se utiliza el constructor Array() para crear arrays.",
+    "is_active": true
+  },
+  {
+    "opc": 3,
+    "titulo": "Propiedades estáticas",
+    "rama": "propiedades_estaticas",
+    "descripcion": "Aprender sobre la propiedad Array[@@species] y su aplicación en arrays.",
+    "is_active": true
+  },
+  {
+    "opc": 4,
+    "titulo": "Métodos estáticos",
+    "rama": "metodos_estaticos",
+    "descripcion": "Explorar los métodos estáticos como from(), fromAsync(), isArray(), y of().",
+    "is_active": true
+  },
+  {
+    "opc": 5,
+    "titulo": "Propiedades de instancia",
+    "rama": "propiedades_instancia",
+    "descripcion": "Entender las propiedades de instancia como length() y prototype[@@unscopables] y su impacto en los arrays.",
+    "is_active": true
+  },
+  {
+    "opc": 6,
+    "titulo": "Introducción a Iterador",
+    "rama": "introduccion_iterador",
+    "descripcion": "Familiarizarse con el uso del iterador prototype[@@iterator]() en arrays.",
+    "is_active": true
+  },
+  {
+    "opc": 7,
+    "titulo": "Método de Acceso",
+    "rama": "metodo_acceso",
+    "descripcion": "Aprender a acceder a los elementos de un array utilizando métodos como entries(), keys(), y values().",
+    "is_active": true
+  },
+  {
+    "opc": 8,
+    "titulo": "Método de Iteración",
+    "rama": "metodo_iteracion",
+    "descripcion": "Conocer cómo iterar sobre arrays de manera eficiente con forEach().",
+    "is_active": true
+  },
+  {
+    "opc": 9,
+    "titulo": "Método de Mapeo",
+    "rama": "metodo_mapeo",
+    "descripcion": "Aplicar la transformación de datos en arrays mediante map().",
+    "is_active": true
+  },
+  {
+    "opc": 10,
+    "titulo": "Método de Aplanamiento",
+    "rama": "metodo_aplanamiento",
+    "descripcion": "Entender cómo aplanar arrays con métodos como flat() y flatMap().",
+    "is_active": true
+  },
+  {
+    "opc": 11,
+    "titulo": "Método de Reversión",
+    "rama": "metodo_reversion",
+    "descripcion": "Conocer los métodos para revertir y ordenar arrays como toReversed(), toSorted(), y toSpliced().",
+    "is_active": true
+  },
+  {
+    "opc": 12,
+    "titulo": "Método de Búsqueda",
+    "rama": "metodo_busqueda",
+    "descripcion": "Explorar las técnicas de búsqueda dentro de un array utilizando find() y findIndex().",
+    "is_active": true
+  },
+  {
+    "opc": 13,
+    "titulo": "Método de Inversa",
+    "rama": "metodo_inversa",
+    "descripcion": "Aprender a buscar elementos desde el final del array con findLast() y findLastIndex().",
+    "is_active": true
+  },
+  {
+    "opc": 14,
+    "titulo": "Método de Inclusión",
+    "rama": "metodo_inclusion",
+    "descripcion": "Conocer cómo verificar la existencia de elementos en un array utilizando includes(), indexOf(), y lastIndexOf().",
+    "is_active": true
+  },
+  {
+    "opc": 15,
+    "titulo": "Método de Filtrado",
+    "rama": "metodo_filtrado",
+    "descripcion": "Aprender a filtrar elementos en un array basándose en condiciones específicas con filter().",
+    "is_active": false
+  },
+  {
+    "opc": 16,
+    "titulo": "Método de Evaluación",
+    "rama": "metodo_evaluacion",
+    "descripcion": "Evaluar la condición de los elementos en un array utilizando some() y every().",
+    "is_active": false
+  },
+  {
+    "opc": 17,
+    "titulo": "Método de Modificación",
+    "rama": "metodo_modificacion",
+    "descripcion": "Aprender a modificar arrays mediante la adición y eliminación de elementos con push(), unshift(), pop(), y shift().",
+    "is_active": false
+  },
+  {
+    "opc": 18,
+    "titulo": "Método de Manipulación",
+    "rama": "metodo_manipulacion",
+    "descripcion": "Conocer métodos avanzados para manipular arrays como splice(), copyWithin(), fill(), y with().",
+    "is_active": false
+  },
+  {
+    "opc": 19,
+    "titulo": "Método de Ordenamiento",
+    "rama": "metodo_ordenamiento",
+    "descripcion": "Aprender a ordenar y revertir arrays utilizando sort() y reverse().",
+    "is_active": false
+  },
+  {
+    "opc": 20,
+    "titulo": "Método de Reducción",
+    "rama": "metodo_reduccion",
+    "descripcion": "Comprender cómo reducir arrays a un solo valor utilizando reduce() y reduceRight().",
+    "is_active": false
+  },
+  {
+    "opc": 21,
+    "titulo": "Método de Conversión",
+    "rama": "metodo_conversion",
+    "descripcion": "Conocer cómo convertir arrays en diferentes representaciones utilizando join(), toString(), y toLocaleString().",
+    "is_active": false
+  },
+  {
+    "opc": 22,
+    "titulo": "Método de Segmentación",
+    "rama": "metodo_segmentacion",
+    "descripcion": "Aprender a segmentar arrays utilizando at() y slice().",
+    "is_active": false
+  },
+  {
+    "opc": 23,
+    "titulo": "Método de Concatenación",
+    "rama": "metodo_concatenacion",
+    "descripcion": "Comprender cómo unir arrays mediante concat().",
+    "is_active": false
+  },
+  {
+    "opc": 24,
+    "titulo": "Proyectos Prácticos",
+    "rama": "proyectos_practico",
+    "descripcion": "Aplicar y demostrar el uso de diversos métodos del objeto Array en JavaScript a través de proyectos prácticos que aborden problemas comunes y casos de uso.",
+    "is_active": false
+  }
+]
